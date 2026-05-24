@@ -1,0 +1,4 @@
+flet
+flet-audio
+deep-translator
+requests
